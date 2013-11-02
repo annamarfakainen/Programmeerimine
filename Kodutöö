@@ -1,0 +1,7 @@
+text = "text"
+
+print text.rfind("e")
+print text.replace("x", "r")
+print text.split("/")
+print text.rstrip("d")
+print text.startswith("t")
