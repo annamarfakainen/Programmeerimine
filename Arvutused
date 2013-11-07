@@ -1,0 +1,45 @@
+# risttahukas
+
+a = 10
+b = 15
+c = 20
+
+servad = 4 * (a + b + c)
+print "servad = {}".format(servad)
+
+pindala = 2 * (a * b + b * c + a * c)
+print "pindala = {}".format(pindala)
+
+ruumala = a * b * c
+print "ruumala = {}".format(ruumala)
+
+# puramiid
+
+Sp = 200
+Sk = 150
+H = 40
+kogupindala = Sp + Sk
+print "kogupindala = {}".format(kogupindala)
+
+ruumala = 1/3 * Sp * H
+print "ruumala = {}".format(ruumala)
+
+# silinder
+R = 4
+H = 6
+p = 3.14
+ruumala = R * R * H * p
+print "ruumala = {}".format(ruumala)
+
+pindala = 2 * p * R * (R + H)
+print "pindala = {}".format(pindala)
+
+# kera
+
+R = 5
+p = 3.14
+ruumala = 4/3 * p * R * R * R
+print "ruumala = {}".format(ruumala)
+
+pindala = 4/3 * p * R * R * R
+print "pindala = {}".format(pindala)
