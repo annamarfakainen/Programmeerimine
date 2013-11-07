@@ -6,7 +6,7 @@ print '{:<20}'.format('Eesnimi Perenimi'), '{:>20}'.format('Eesnimi Perenimi')
 print '{:<20}'.format('Aadress'), '{:>20}'.format('Aadress')
 fmt = '{:20} {:10} {:10}'
 print fmt.format('Nimetus', 'Kogus', 'Summa')
-
+print '{:-^40}'.format('-')
 print '{:<20}'.format('Arve number'), '{:>20}'.format('1')
 print '{:<20}'.format('Arve kuupäev'), '{:>20}'.format('05.10.2012')
 print '{:<20}'.format('Swedbank: 2210203030304')
