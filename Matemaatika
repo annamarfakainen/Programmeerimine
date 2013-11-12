@@ -6,5 +6,5 @@ print "cos(a) : ",  math.cos(a)
 print "tan(a) : ",  math.tan(a)
 
 print math.tan(a) = math.sin(a)/math.cos(a)
-1 - math.cos(a)*math.cos(a) = math.sin(a)*math.sin(a)
+1 - math.cos(a)^2 = math.sin(a)^2
 
