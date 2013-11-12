@@ -5,6 +5,6 @@ print "sin(a) : ",  math.sin(math.sin(a * Math.PI/180))
 print "cos(a) : ",  math.cos(math.cos(a * Math.PI/180))
 print "tan(a) : ",  math.tan(math.tan(a * Math.PI/180))
 
-print math.tan(a) = math.sin(a)/math.cos(a)
-1 - math.cos(a)^2 = math.sin(a)^2
+print tan(a) = sin(a)/cos(a)
+1 - cos(a)^2 = sin(a)^2
 
