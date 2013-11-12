@@ -1,8 +1,8 @@
 from math import sin, cos, tan
 a = 45
-sin(a) = 
-cos(a) = 
+print math.sin(a) 
+print math.cos(a) 
 
-tan(a) = sin(a)/cos(a)
-1 - cos(a)*cos(a) = sin(a)*sin(a)
+print math.tan(a) = math.sin(a)/math.cos(a)
+1 - math.cos(a)*math.cos(a) = math.sin(a)*math.sin(a)
 
