@@ -1,0 +1,8 @@
+from math import sin, cos, tan
+a = 45
+sin(a) = 
+cos(a) = 
+
+tan(a) = sin(a)/cos(a)
+1 - cos(a)*cos(a) = sin(a)*sin(a)
+
