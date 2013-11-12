@@ -1,9 +1,9 @@
 #!/usr/bin/python
 import math
 a = 45
-print "sin(a) : ",  math.sin(a)
-print "cos(a) : ",  math.cos(a)
-print "tan(a) : ",  math.tan(a)
+print "sin(a) : ",  math.sin(math.sin(a * Math.PI/180))
+print "cos(a) : ",  math.cos(math.cos(a * Math.PI/180))
+print "tan(a) : ",  math.tan(math.tan(a * Math.PI/180))
 
 print math.tan(a) = math.sin(a)/math.cos(a)
 1 - math.cos(a)^2 = math.sin(a)^2
