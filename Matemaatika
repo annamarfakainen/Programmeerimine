@@ -1,12 +1,12 @@
 #!/usr/bin/python
 import math
 a = 45
-print "sin(a) : ",  math.sin(a * Math.PI/180)
-print "cos(a) : ",  math.cos(a * Math.PI/180)
-print "tan(a) : ",  math.tan(a * Math.PI/180)
+print "sin(a) : ",  math.sin(a * math.pi/180)
+print "cos(a) : ",  math.cos(a * math.pi/180)
+print "tan(a) : ",  math.tan(a * math.pi/180)
 
-if tan(a) = sin(a)/cos(a)
-print ("õige")
-if 1 - cos(a)^2 = sin(a)^2
-print ("õige")
+if tan(a) == sin(a)/cos(a):
+  print ("õige")
+if 1 - cos(a)^2 == sin(a)^2:
+  print ("õige")
 
