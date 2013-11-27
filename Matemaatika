@@ -7,6 +7,6 @@ print "tan(a) : ",  math.tan(a * math.pi/180)
 
 if tan(a) == sin(a)/cos(a):
   print ("õige")
-if 1 - cos(a)^2 == sin(a)^2:
+if 1 - cos(a)**2 == sin(a)**2:
   print ("õige")
 
