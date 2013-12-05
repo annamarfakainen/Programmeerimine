@@ -1,0 +1,9 @@
+import random
+n = int(raw_input('mitu rida: '))
+i = 1
+line = ''
+while i <= n:
+	line = line + '#' * random.randint(40, 90)
+	print line
+	i = i + 1
+	
