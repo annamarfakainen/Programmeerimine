@@ -1,12 +1,11 @@
 import turtle
 turtle.up()
-text = raw_input (´sisesta tekst: ´)
 x = 30
 y = 20
-if text == "\033[y;xH":
-  turtle.goto(x,y)
-elif text == "\033[2J"
-  turtle.clear()
+turtle.goto(x,y)
+turtle.write(\033[y;xH)
+turtle.clear()
+turtle.write(\033[2J) 
 
 
 
